@@ -198,3 +198,13 @@ E:\LibraryManagement\QLTV(DOaN)\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 E:\LibraryManagement\QLTV(DOaN)\DAL\obj\Debug\DAL.csproj.CopyComplete
 E:\LibraryManagement\QLTV(DOaN)\DAL\obj\Debug\DAL.dll
 E:\LibraryManagement\QLTV(DOaN)\DAL\obj\Debug\DAL.pdb
+D:\LibraryManagement\QLTV(DOaN)\DAL\bin\Debug\DAL.dll.config
+D:\LibraryManagement\QLTV(DOaN)\DAL\bin\Debug\DAL.dll
+D:\LibraryManagement\QLTV(DOaN)\DAL\bin\Debug\DAL.pdb
+D:\LibraryManagement\QLTV(DOaN)\DAL\bin\Debug\System.Data.SqlClient.dll
+D:\LibraryManagement\QLTV(DOaN)\DAL\bin\Debug\System.Data.SqlClient.xml
+D:\LibraryManagement\QLTV(DOaN)\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\LibraryManagement\QLTV(DOaN)\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\LibraryManagement\QLTV(DOaN)\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\LibraryManagement\QLTV(DOaN)\DAL\obj\Debug\DAL.dll
+D:\LibraryManagement\QLTV(DOaN)\DAL\obj\Debug\DAL.pdb

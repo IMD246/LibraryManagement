@@ -201,3 +201,13 @@ E:\LibraryManagement\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
 E:\LibraryManagement\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CopyComplete
 E:\LibraryManagement\QLTV(DOaN)\BUS\obj\Debug\BUS.dll
 E:\LibraryManagement\QLTV(DOaN)\BUS\obj\Debug\BUS.pdb
+D:\LibraryManagement\QLTV(DOaN)\BUS\bin\Debug\BUS.dll
+D:\LibraryManagement\QLTV(DOaN)\BUS\bin\Debug\BUS.pdb
+D:\LibraryManagement\QLTV(DOaN)\BUS\bin\Debug\DAL.dll
+D:\LibraryManagement\QLTV(DOaN)\BUS\bin\Debug\DAL.pdb
+D:\LibraryManagement\QLTV(DOaN)\BUS\bin\Debug\DAL.dll.config
+D:\LibraryManagement\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\LibraryManagement\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\LibraryManagement\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\LibraryManagement\QLTV(DOaN)\BUS\obj\Debug\BUS.dll
+D:\LibraryManagement\QLTV(DOaN)\BUS\obj\Debug\BUS.pdb
